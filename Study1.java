@@ -1,1 +1,2 @@
 pulic class Study{ }
+ @methods
